@@ -10,7 +10,7 @@ class dog extends animal{
     System.out.println("Dog sounds bow bow");		
     }		
 }		
-public class Main		
+public class Inheritance		
 {		
 	public static void main(String[] args) {	
 		System.out.println("Hello World");
